@@ -4,6 +4,7 @@
 <b>Hi, My name is Yusuf. I am a data professional.<b>
 
 <p></p>
+
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
@@ -43,7 +44,8 @@
 <a href="mailto:  ">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
-
+<p><div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
 </p>
 
 
