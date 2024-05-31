@@ -1,6 +1,6 @@
 # Hi there, I'm Yusuf! 👋
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?showBorder&theme=gotham)
 
 ## 💼 About Me
 
