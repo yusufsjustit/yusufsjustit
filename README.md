@@ -1,49 +1,70 @@
+# 💻 Yusuf Satilmis  
+🔍 **Data Analyst | Lifelong Learner**  
+🌟 Passionate about transforming raw data into actionable insights!  
 
+---
 
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is ??????. I am a data professional.<b>
+## 🛠️ Core Skills  
+Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
-<p></p>
-<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
+### 🧰 **Tools & Technologies**
+- **Excel**  
+  ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
+  - Experienced with creating dashboards and reports using charts and conditional formatting.  
 
-<b>I have experience using these data analysis tools.<b>
-<p align="center">
-<a href="#"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+- **Tableau**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+  - Expert in designing interactive visualizations and dashboards.  
+  - Skilled in creating calculated fields and advanced filters for actionable insights.  
 
-<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+- **Power BI**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+  - Deep knowledge of DAX for complex calculations and measures.  
+  - Experienced in data modeling, relationships, and report automation.  
 
-</p>
+- **MySQL**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  - Proficient in writing optimized SQL queries for data extraction and transformation.  
+  - Skilled in creating stored procedures, views, and joins.  
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+- **Azure**  
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+  - Familiar with Azure SQL Databases and cloud data solutions.  
+  - Experienced in deploying data projects and managing cloud storage.  
 
-<b>I have also experience using these data visualization tools.<b>
+- **Python**  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+  - Skilled in data manipulation and analysis using Pandas and NumPy.  
+  - Proficient in data visualization using Matplotlib and Seaborn.  
 
-<p align="center">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-</p>
+---
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
-<p align="center">
+## 📊 What I Do  
+- **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
+- **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
+- **Data Engineering**: Build robust data pipelines and workflows for efficient data processing.  
+- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
 
-<a href="https://www.linkedin.com/in/user-name/ " > 
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<a href=" tableau public profile url">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
-</a>
+## 🌟 Goals  
+🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
+📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
 
-<a href="mailto:  ">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
+---
 
-</p>
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/yusuf-satilmis/)  
+- [Portfolio](#) _(Add a link to your portfolio)_  
 
+---
 
+### 📈 GitHub Stats  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufsjustit&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsjustit&layout=compact&theme=radical)  
+
+---
+
+### ✨ Want to Collaborate?  
+Feel free to open an issue or reach out to me. Let's create amazing data solutions together!  
