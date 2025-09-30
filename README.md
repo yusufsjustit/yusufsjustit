@@ -1,15 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Yusuf  
 
+## 👨‍🏫 About Me  
+I’m a **Data Analyst Trainer** passionate about empowering learners and professionals to unlock the power of data.  
+With hands-on experience across **data analysis, visualization, and reporting**, I specialize in guiding others to build real-world, job-ready skills.  
 
-**yusufsjustit/yusufsjustit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Data Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📊 Excel  
+- 🧹 Data cleaning & transformation  
+- 📑 Pivot Tables & Pivot Charts  
+- 🧮 Functions & formulas (SUM, IF, VLOOKUP, etc.)  
+
+### 📈 Tableau  
+- 📊 Interactive dashboards  
+- 🎨 Wide range of visuals  
+- ✏️ Calculated fields for deeper insights  
+
+### 📊 Power BI  
+- 🔄 Power Query for data transformation  
+- 📑 Report & dashboard development  
+- 🔢 DAX for advanced calculations  
+
+### 🗄️ MySQL  
+- 📋 Basic queries: `SELECT`, `FROM`, `WHERE`  
+- 🔍 Filtering & sorting with `ORDER BY`  
+- 📊 Aggregation with `GROUP BY`  
+- 🔗 Joins to combine data tables  
+
+### 🐍 Python  
+- 🐼 Data manipulation with **pandas**  
+- 📊 Data visualization with **seaborn** & **matplotlib**  
+
+---
+
+## 📈 GitHub Stats  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufSatilmis&show_icons=true&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
+- 🌍 [Portfolio Website](https://) *(add your link)*  
+
+---
+
+✨ Always curious, always learning, and always sharing knowledge to help others grow in their data journey 🚀  
