@@ -1,61 +1,72 @@
-# Hey there! I'm Yusuf 👋
-
-Welcome to my GitHub corner! I’m a data enthusiast who loves teaching, analysing, and building cool data-driven projects. Here you’ll find dashboards, SQL scripts, Power BI reports, and experiments as I level up my analytics journey. 🚀
-
----
-
-## 🔧 What I Work With
-
-### 📊 Excel  
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-- Cleaning and transforming messy data  
-- PivotTables, dashboards, and formula magic  
-- Teaching Excel fundamentals to learners
-
-### 📈 Tableau  
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-- Interactive dashboards and storytelling  
-- Global Superstore analyses  
-- Calculated fields, parameters, and filters
-
-### 📊 Power BI  
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-- Data modelling, DAX, and Power Query  
-- Real-world reporting projects  
-- Currently preparing for **PL-300 Certification**
-
-### 🗂️ SQL  
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-- Writing joins, aggregations, CTEs  
-- Querying relational databases  
-- Helping learners understand SQL basics
-
-### ☁️ Azure  
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-- Experience teaching Azure SQL Database & Storage  
-- Building an *Introduction to Azure* course  
-- Comfortable with cloud data concepts
-
-### 🐍 Python  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-- Data analysis with pandas and NumPy  
-- Beginner-friendly automations  
-- Teaching Python basics in data bootcamps
+# 💻 Yusuf Satilmis  
+🔍 **Data Analyst | Lifelong Learner**  
+🌟 Passionate about transforming raw data into actionable insights!  
 
 ---
 
-## 🤣 Data Memes  
-Because learning data shouldn’t be serious all the time:
+## 🛠️ Core Skills  
+Here are the tools and technologies I use to solve problems and craft data-driven stories:  
 
-- “I’ll fix it later” — **every dashboard ever**  
-- *SQL*: The art of turning English into error messages  
-- When Excel crashes and you realise you haven’t saved since 2019  
-- Power BI refresh: **99%… 99%… 99%…**
+### 🧰 **Tools & Technologies**
+- **Excel**  
+  ![Excel](https://img.shields.io/badge/Excel-%23339933.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+  - Proficient in Pivot Tables, advanced formulas, and data cleaning.  
+  - Experienced with creating dashboards and reports using charts and conditional formatting.  
+
+- **Tableau**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+  - Expert in designing interactive visualizations and dashboards.  
+  - Skilled in creating calculated fields and advanced filters for actionable insights.  
+
+- **Power BI**  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+  - Deep knowledge of DAX for complex calculations and measures.  
+  - Experienced in data modeling, relationships, and report automation.  
+
+- **MySQL**  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+  - Proficient in writing optimized SQL queries for data extraction and transformation.  
+  - Skilled in creating stored procedures, views, and joins.  
+
+- **Azure**  
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+  - Familiar with Azure SQL Databases and cloud data solutions.  
+  - Experienced in deploying data projects and managing cloud storage.  
+
+- **Python**  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+  - Skilled in data manipulation and analysis using Pandas and NumPy.  
+  - Proficient in data visualization using Matplotlib and Seaborn.  
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** *Add your link here*  
-- **Portfolio Website:** *Add your Google Sites link here*  
+## 📊 What I Do  
+- **Data Analysis**: Transform raw data into actionable insights through cleaning, exploration, and visualization.  
+- **Business Intelligence**: Develop interactive dashboards and dynamic reports to support decision-making.  
+- **Data Engineering**: Build robust data pipelines and workflows for efficient data processing.  
+- **Problem Solving**: Apply advanced calculations, statistical models, and logic to solve business challenges.  
 
 ---
+
+## 🌟 Goals  
+🚀 Currently preparing for **PL-300: Microsoft Power BI Data Analyst** certification.  
+📚 Continuously exploring data engineering, cloud solutions, and AI-driven analytics.  
+
+---
+
+## 📫 Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/yusuf-satilmis/)  
+- [Portfolio](#) _(Add a link to your portfolio)_  
+
+---
+
+### 📈 GitHub Stats  
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufsjustit&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsjustit&layout=compact&theme=radical)  
+
+---
+
+### ✨ Want to Collaborate?  
+Feel free to open an issue or reach out to me. Let's create amazing data solutions together!  
+
+
